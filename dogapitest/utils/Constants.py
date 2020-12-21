@@ -1,0 +1,5 @@
+"""
+Constants.py
+"""
+MAX_VALUE_RANDOM_IMAGE_API = 50
+MIN_VALUE_RANDOM_IMAGE_API = 0
